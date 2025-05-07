@@ -323,18 +323,6 @@ h1 {
   width: 100%;
 }
 
-.description-title {
-  font-family: 'Playfair Display', serif;
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--primary-color);
-  margin: 0 0 1rem 0;
-  text-align: left;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  font-variant: small-caps;
-}
-
 .description-content {
   font-family: 'Inter', sans-serif;
   font-weight: 300;

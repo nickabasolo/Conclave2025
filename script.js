@@ -196,10 +196,7 @@ function renderCategoryCards() {
     if (currentHighlight === category) {
       card.classList.add('active');
       const description = descriptions[currentDimension]?.[category] || `Description for ${category}`;
-      descriptionText.innerHTML = `
-        <h2 class="description-title">${category}</h2>
-        <div class="description-content">${description}</div>
-      `;
+      descriptionText.innerHTML = `<div class="description-content">${description}</div>`;
     }
     categoryCards.appendChild(card);
   }

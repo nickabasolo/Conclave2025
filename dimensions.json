@@ -1,4 +1,9 @@
 {
+  "Pope": {
+    "Francis": 108,
+    "Benedict XVI": 20,
+    "John Paul II": 5
+  },
   "Region": {
     "Africa": 17,
     "Asia": 27,
@@ -7,26 +12,21 @@
     "Rest of Europe": 35,
     "United States and Canada": 14
   },
-  "Pope": {
-    "Benedict XVI": 20,
-    "Francis": 108,
-    "John Paul II": 5
-  },
   "Age Group": {
     "Under 60": 15,
-    "60\u201369": 43,
-    "70\u201379": 75
+    "in their 60's": 43,
+    "in their 70's": 75
   },
   "Office Type": {
     "Curia": 36,
-    "Pastoral": 97
+    "Non-Curia": 97
   },
   "Priestly Order": {
     "Diocesan Clergy": 107,
     "Dominicans": 3,
     "Franciscans": 4,
     "Jesuits": 4,
-    "Other Religious Orders": 10,
-    "Salesians": 5
+    "Salesians": 5,
+    "Other Religious Orders": 10
   }
 }

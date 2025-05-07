@@ -1,0 +1,32 @@
+{
+  "Region": {
+    "Africa": "Africa\u2019s share of cardinal electors has steadily grown, reflecting the Church\u2019s expansion across the continent. African cardinals are often outspoken defenders of traditional Catholic teachings\u2014particularly on sexuality, marriage, and liturgy\u2014and are expected to exert increasing influence in future conclaves.",
+    "Asia": "Once marginal in papal elections, Asia now commands a significant and growing share of electors. Cardinals from countries like the Philippines, India, and South Korea often navigate religious pluralism and state scrutiny, and many emphasize evangelization, discipline, and doctrinal clarity.",
+    "Italy": "Italy\u2019s dominance in papal politics has waned from its historic highs, but it still retains significant influence through Curial appointments and senior clergy. Italian cardinals often represent institutional continuity and pragmatic governance, though they span a wide range of theological positions.",
+    "Latin America": "Latin America has become one of the largest blocs in the College, particularly under Pope Francis. Many of its cardinals emphasize pastoral outreach, environmental justice, and economic inequality, though tensions exist between progressive and traditional factions within the region.",
+    "Rest of Europe": "Europe outside Italy now makes up the largest single regional bloc. These cardinals are often split between socially progressive views from Western Europe and more conservative voices from Central and Eastern Europe. Despite declining Church attendance, their influence remains high.",
+    "United States and Canada": "While numerically smaller, North American cardinals wield major influence through funding, media presence, and intellectual leadership. U.S. cardinals in particular are sharply divided between liberal and conservative camps, often reflecting broader political polarization."
+  },
+  "Pope": {
+    "Francis": "The overwhelming majority of current electors were appointed by Pope Francis, marking a clear shift in the ideological and geographical makeup of the College. His appointments emphasize pastoral sensitivity, global diversity, and decentralization\u2014though critics say the ideological tilt is ambiguous.",
+    "Benedict XVI": "Cardinals appointed by Benedict XVI tend to lean toward theological orthodoxy and liturgical tradition. While no longer dominant in number, they often represent the most vocal conservative voices within the College.",
+    "John Paul II": "Now a small and aging minority, the remaining electors from John Paul II\u2019s era are often seen as institutional conservatives, formed in the Church\u2019s post-Vatican II response to modernity. Their influence is fading, but their legacy shaped two generations of hierarchy."
+  },
+  "Age Group": {
+    "Under 60": "The youngest cardinals\u2014under 60\u2014are few in number but potentially pivotal in long-term influence. They often represent rising regions and are more likely to reflect Pope Francis\u2019s vision of a globally attuned, pastorally engaged Church.",
+    "60\u201369": "This age bracket forms the heart of the electorate: seasoned, influential, and often holding top Curial or diocesan roles. Their outlooks vary widely depending on region and appointing pope, but they\u2019re likely to shape the next papacy.",
+    "70\u201379": "Cardinals nearing the retirement age of 80 form the largest share of the College. Many hold emeritus titles or represent institutional memory. While some are more cautious or conservative, others serve as elder statesmen aligned with Francis\u2019s reform agenda."
+  },
+  "Office Type": {
+    "Curia": "Curial cardinals work in the Vatican\u2019s administrative core and hold disproportionate influence in papal elections. They are often policy-savvy, institutionally aligned, and closely tied to the reigning pope\u2019s governance style.",
+    "Pastoral": "Pastoral cardinals serve as diocesan bishops or archbishops and tend to bring frontline concerns to the College. Their priorities often reflect the social, political, and economic realities of their home regions\u2014and their support can be decisive in a conclave."
+  },
+  "Priestly Order": {
+    "Diocesan Clergy": "Most cardinals are diocesan clergy, not affiliated with a religious order. They often rise through episcopal leadership and may focus on pragmatic governance, local Church concerns, and doctrinal balance.",
+    "Franciscans": "Franciscan cardinals prioritize simplicity, service to the poor, and ecological stewardship. They often align with Pope Francis\u2019s vision and emphasize mercy over doctrinal rigidity.",
+    "Jesuits": "Jesuits\u2014like Pope Francis himself\u2014are intellectually rigorous, strategic, and globally engaged. They are often reformist in tone but institutionally savvy, with a strong emphasis on discernment, dialogue, and social justice.",
+    "Salesians": "Salesian cardinals are known for their focus on youth, education, and missionary work. Their pastoral style often reflects a pragmatic and optimistic engagement with modern culture.",
+    "Dominicans": "Dominicans bring a theological and scholarly tradition centered on truth and preaching. They may take clear doctrinal stances and often engage deeply in the intellectual life of the Church.",
+    "Other Religious Orders": "This group includes a range of smaller missionary and contemplative orders. Their influence varies, but they often embody distinct spiritual charisms and global outreach missions."
+  }
+}

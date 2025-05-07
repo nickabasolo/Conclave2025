@@ -196,12 +196,15 @@ function renderCategoryCards() {
     if (currentHighlight === category) {
       card.classList.add('active');
       const description = descriptions[currentDimension]?.[category] || `Description for ${category}`;
-      descriptionText.innerText = description;
+      descriptionText.innerHTML = `
+        <h2 class="description-title">${category}</h2>
+        <div class="description-content">${description}</div>
+      `;
     }
     categoryCards.appendChild(card);
   }
   if (!currentHighlight) {
-    descriptionText.innerText = 'Select a category to see details here.';
+    descriptionText.innerHTML = '<div class="description-content">Select a category to see details here.</div>';
   }
 }
 
